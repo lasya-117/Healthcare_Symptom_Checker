@@ -190,5 +190,3 @@ streamlit run app.py
 * Enable **multilingual support**
 
 
-
-Would you like me to also create the **`requirements.txt`** and **`scraper.py`** file content (so that your repo is complete and runs directly)?
